@@ -20,3 +20,16 @@ Through this project I will learn how to automate a loan qualifying procedure.
 <img width="562" alt="Screenshot 2024-11-29 at 20 39 09" src="https://github.com/user-attachments/assets/b5a81ce7-adc8-4595-9d94-1aa4cfc71231">
 
 
+---
+
+# Python Notebook:
+
+"loan_prediction.ipynb"
+
+## Data Exploration
+
+## Preprocessing
+
+## Models
+
+## Validation

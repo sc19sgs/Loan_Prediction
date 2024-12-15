@@ -32,4 +32,11 @@ Through this project I will learn how to automate a loan qualifying procedure.
 
 ## Models
 
-## Validation
+## Comparison
+
+## User Interface
+
+- cd into 'Interface'
+- streamlit run interface.py
+
+
